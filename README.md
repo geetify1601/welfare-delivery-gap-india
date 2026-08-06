@@ -67,7 +67,7 @@ States are ranked on DES across all three schemes to identify
 systemic delivery bottlenecks.
 
 ## Status
-🟡 In Progress — Week 1 complete (Problem Framing and Literature Review)
+🟡 In Progress — Week 2 started (Data Collection)
 
 ## Author
 Geetika | B.Tech ICT | Public Policy & Data Analytics
